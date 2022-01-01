@@ -3,7 +3,8 @@
 # Table Of Contents
   
   * [What Is IEF](#what-is-ief)
-  * [Main Components](#main_components)
+  * [Quickstart](#quickstart)
+  * [Main Components](#main-components)
 
 # What Is IEF
 
