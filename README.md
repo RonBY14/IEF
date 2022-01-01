@@ -84,11 +84,17 @@ This document assumes you are already familiar with these concepts. If not, you 
           }
       }
       ```
-      
+       
 # How To Import It To Your Project
-
+  
 Unfortunately it is not yet possible to import it using Maven. 
-But the project can be imported using the JAR file I provide:
+But the project can be imported by downloading the JAR file I 
+provide in this link: [IEF.jar](https://github.com/RonBY14/IEF/blob/main/IEF.jar?raw=true)
+  
+* In IntelliJ: File -> Project Structure... -> Libraries -> '+' sign -> Java -> Locate the JAR file on you PC.
+                 
+
+
 
 
 
