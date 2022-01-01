@@ -1,2 +1,2 @@
-# ice-events-framework
+# IEF
 ICE's Events Framework
