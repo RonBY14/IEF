@@ -3,11 +3,11 @@
 # Table Of Contents
   
   * [What Is IEF](#what-is-ief)
-  * [Components](#
+  * [Main Components](#main_components)
 
 # What Is IEF
 
-This tiny framework's goal is to help you with building event-driven software in a clean and quick manner.
+Is events framework with the goal to help you with building event-driven software in a clean and quick manner.
 The framework was originally created for a real-time chat project, but it was written with the intention to be reusable and to fit almost every software.
 
 # Quickstart
@@ -15,7 +15,7 @@ The framework was originally created for a real-time chat project, but it was wr
 The framework is built around the publish-subscribe design pattern and the concept of topics.
 This document assumes you are already familiar with these concepts. If not, you can go read about them online, because I will not elaborate on them
 
-## Components
+## Main Components
 
   * **Subscriber**
     
@@ -24,7 +24,7 @@ This document assumes you are already familiar with these concepts. If not, you 
   * **EventBus**
 
     * Is the most important object, which from you make most of the interactions with the framework. It provides a very simple interface from which you can subscribe to topics,
-      unsubscribe from topics, create new topics, publish events on topics, and more. Use example:
+      unsubscribe from topics, create new topics, publish events to topics, and more. Use example:
       
       ```
       public class Player extends Subscriber {
@@ -84,7 +84,3 @@ This document assumes you are already familiar with these concepts. If not, you 
           }
       }
       ```
-
-# How To Use
-
-
