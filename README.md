@@ -23,7 +23,7 @@ This document assumes you are already familiar with these concepts. If not, you 
 
   * **EventBus**
 
-    * Is the most important object, which from you make most of the interactions with the framework. It provides a very simple interface from which you can subscribe to topics,
+    * Is the most important object which from you make most of the interactions with the framework. It provides a very simple interface from which you can subscribe to topics,
       unsubscribe from topics, create new topics, publish events to topics, and more. Use example:
       
       ```
@@ -89,5 +89,7 @@ This document assumes you are already familiar with these concepts. If not, you 
 
 Unfortunately it is not yet possible to import it using Maven. 
 But the project can be imported using the JAR file I provide:
+
+
 
 
