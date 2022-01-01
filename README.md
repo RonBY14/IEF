@@ -1,2 +1,2 @@
-# ice-s-events-framework
+# ice-events-framework
 ICE's Events Framework
