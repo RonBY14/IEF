@@ -38,14 +38,14 @@ The framework is built around the publish-subscribe design pattern and the conce
             Creates new topic for the player so he will be able to receive event.
             */
             eventBus.createTopic(PLAYER_TOPIC);
-            eventbus.subscribe(this, Database.DATABASE_TOPIC);
+            eventbus.subscribe(this, Player_TOPIC);
             
             /*
             We want to retrieve the player's data from the database 
             by publishing our custom event to the topic channel the 
             database is subscribed to (Or listenning to).
             */
-            eventbus.publish(new PlayerDataRetrieveEvent(), "Database")
+            eventbus.publish(new PlayerDataRetrieveEvent(), Database.DATABASE_TOPIC)
           }
           
           @Override
