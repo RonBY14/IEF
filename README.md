@@ -4,17 +4,17 @@
 >  * [What Is IEF](#what-is-ief)
 >  * [Quickstart](#quickstart)
 >  * [Main Components](#main-components)
->  * [How To Import It To Your Project](#how-to-import-it-to-your-project)
+>  * [Import To Your Project](#import-to-your-project)
 
 # What Is IEF
 
-Is events framework with the goal to help you with building event-driven software in a clean and quick manner.
+IEF is events framework that is driven by the goal of helping you with building event-driven software in a clean and quick manner.
 The framework was originally created for a real-time chat project, but it was written with the intention to be reusable and to fit almost every software.
 
 # Quickstart
 
 The framework is built around the publish-subscribe design pattern and the concept of topics.
-This document assumes you are already familiar with these concepts. If not, you can go read about them online, because I will not elaborate on them
+This document assumes you are already familiar with these concepts. If not, you can go read about them online.
 
 ## Main Components
 
@@ -86,7 +86,7 @@ This document assumes you are already familiar with these concepts. If not, you 
       }
       ```
        
-# How To Import It To Your Project
+# Import To Your Project
 
 Unfortunately it is not yet possible to import it using Maven. 
 But the project can be imported by downloading the JAR file I 
