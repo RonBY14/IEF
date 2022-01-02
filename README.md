@@ -93,7 +93,7 @@ But the project can be imported by downloading the JAR file I
 provide in this link: [IEF.jar](https://github.com/RonBY14/IEF/blob/main/IEF.jar?raw=true),
 and then import it in your IDE.
   
-* **In IntelliJ:** File -> Project Structure... -> Libraries -> '+' sign -> Java -> Locate the JAR file on you PC.
+* **In IntelliJ:** `File -> Project Structure... -> Libraries -> '+' sign -> Java -> Locate the JAR file on you PC.`
                  
 
 
