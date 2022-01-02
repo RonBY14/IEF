@@ -13,7 +13,7 @@ The framework was originally created for a real-time chat project, but it was wr
 
 # Quickstart
 
-The framework is built around the publish-subscribe design pattern and the concept of topics.
+The framework is based on the publish-subscribe design pattern and the concept of topics.
 This document assumes you are already familiar with these concepts. If not, you can go read about them online.
 
 ## Main Components
