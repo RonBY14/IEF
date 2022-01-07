@@ -8,7 +8,7 @@
 
 # What Is IEF
 
-IEF is events framework that is driven by the goal of helping you with building event-driven software in a clean and quick manner.
+IEF is an events framework that is driven by the goal of helping you with building event-driven software in a clean and quick manner.
 The framework was originally created for my real-time chat project, but it was written with the intention to be reusable and to fit almost every software.
 
 # Quickstart
